@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "christoe": {
+      "source": {
+        "source": "github",
+        "repo": "Monsen31/Christoe-OS",
+        "ref": "v1.4.0"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "christoe@christoe": true
+  }
+}
